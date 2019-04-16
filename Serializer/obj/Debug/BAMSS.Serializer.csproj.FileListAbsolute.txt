@@ -1,0 +1,9 @@
+C:\Projects\Bamss\Common\BAMSS\Serializer\bin\Debug\Serializer.dll
+C:\Projects\Bamss\Common\BAMSS\Serializer\bin\Debug\Serializer.pdb
+C:\Projects\Bamss\Common\BAMSS\Serializer\obj\Debug\Serializer.dll
+C:\Projects\Bamss\Common\BAMSS\Serializer\obj\Debug\Serializer.pdb
+C:\Projects\Bamss\Common\BAMSS\Serializer\obj\Debug\BAMSS.Serializer.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\Serializer\bin\Debug\Serializer.dll
+C:\User\Projects\Bamss\Common\BAMSS\Serializer\bin\Debug\Serializer.pdb
+C:\User\Projects\Bamss\Common\BAMSS\Serializer\obj\Debug\Serializer.dll
+C:\User\Projects\Bamss\Common\BAMSS\Serializer\obj\Debug\Serializer.pdb

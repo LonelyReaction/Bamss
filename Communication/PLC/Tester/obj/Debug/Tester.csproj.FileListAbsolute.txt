@@ -1,0 +1,17 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\Tester.exe.config
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\Tester.exe
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\Tester.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\obj\Debug\Tester.Form1.resources
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\obj\Debug\Tester.exe
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\obj\Debug\Tester.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\BAMSS.MXComponent.MXComponentCoreAccessor.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\BAMSS.MXComponent.MXComponentUserAccessor.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\BAMSS.Data.SQLServerAccessor.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\BAMSS.MXComponent.MXComponentCoreAccessor.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\BAMSS.MXComponent.MXComponentUserAccessor.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\BAMSS.Data.SQLServerAccessor.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\Tester\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.pdb

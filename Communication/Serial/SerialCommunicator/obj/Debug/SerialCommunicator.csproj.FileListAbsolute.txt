@@ -1,0 +1,4 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\bin\Debug\SerialCommunicator.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\bin\Debug\SerialCommunicator.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\obj\Debug\SerialCommunicator.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\obj\Debug\SerialCommunicator.pdb

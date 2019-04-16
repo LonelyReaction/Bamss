@@ -1,0 +1,9 @@
+C:\Projects\Bamss\Common\BAMSS\Common\WindowsControl\bin\Debug\WindowsControl.dll
+C:\Projects\Bamss\Common\BAMSS\Common\WindowsControl\bin\Debug\WindowsControl.pdb
+C:\Projects\Bamss\Common\BAMSS\Common\WindowsControl\obj\Debug\WindowsControl.dll
+C:\Projects\Bamss\Common\BAMSS\Common\WindowsControl\obj\Debug\WindowsControl.pdb
+C:\Projects\Bamss\Common\BAMSS\Common\WindowsControl\obj\Debug\BAMSS.Common.WindowsControl.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\Common\WindowsControl\bin\Debug\WindowsControl.dll
+C:\User\Projects\Bamss\Common\BAMSS\Common\WindowsControl\bin\Debug\WindowsControl.pdb
+C:\User\Projects\Bamss\Common\BAMSS\Common\WindowsControl\obj\Debug\WindowsControl.dll
+C:\User\Projects\Bamss\Common\BAMSS\Common\WindowsControl\obj\Debug\WindowsControl.pdb

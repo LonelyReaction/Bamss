@@ -1,0 +1,10 @@
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\bin\Debug\BAMSS.UI.SwapStageChildTester.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\bin\Debug\BAMSS.UI.SwapStageChildTester.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\bin\Debug\BAMSS.UI.SwapStageController.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\bin\Debug\BAMSS.UI.SwapStageController.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\obj\Debug\BAMSS.UI.SwapStageChildTester.csprojResolveAssemblyReference.cache
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\obj\Debug\BAMSS.UI.SwapStageChildTester.csproj.GenerateResource.Cache
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\obj\Debug\BAMSS.UI.SwapStageChildTester.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\obj\Debug\BAMSS.UI.SwapStageChildTester.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\obj\Debug\BAMSS.UI.SwapStage.SwapStageChildTextInput2.resources
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageChildTester\obj\Debug\BAMSS.UI.SwapStage.SwapStageChildTextInput1.resources

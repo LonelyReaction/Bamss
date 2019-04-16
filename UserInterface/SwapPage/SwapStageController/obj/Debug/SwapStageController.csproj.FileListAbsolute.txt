@@ -1,0 +1,4 @@
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\bin\Debug\BAMSS.UI.SwapStageController.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\bin\Debug\BAMSS.UI.SwapStageController.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStageController.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStageController.pdb

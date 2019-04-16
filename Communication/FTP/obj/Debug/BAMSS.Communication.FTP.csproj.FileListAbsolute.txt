@@ -1,0 +1,11 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\bin\Debug\BAMSS.Communication.FTP.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\bin\Debug\BAMSS.Communication.FTP.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\obj\Debug\BAMSS.Communication.FTP.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\obj\Debug\BAMSS.Communication.FTP.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\bin\Debug\BAMSS.Extensions.Exception.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\bin\Debug\BAMSS.Extensions.String.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\bin\Debug\BAMSS.Extensions.Exception.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\bin\Debug\BAMSS.Extensions.String.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\obj\Debug\BAMSS.Communication.FTP.csprojResolveAssemblyReference.cache
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\FTP\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.pdb

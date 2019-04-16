@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8BBAC025-B5AA-490E-A1E4-C9C73A2E032F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BAMSS.MXComponent</RootNamespace>
+    <AssemblyName>BAMSS.MXComponent.MXComponentUserAccessor</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PlcHandShakeSendReqReadProcessor.cs" />
+    <Compile Include="PlcHandShakeSendReqReadWriteProcessor.cs" />
+    <Compile Include="PlcHandShakeWaitReqReadWriteProcessor.cs" />
+    <Compile Include="PlcHandShakeWaitReqReadProcessor.cs" />
+    <Compile Include="PlcWatchProcessor.cs" />
+    <Compile Include="IPlcWatchProcessor.cs" />
+    <Compile Include="PlcConfigLoaderDataTable.cs" />
+    <Compile Include="PlcAccessor.cs" />
+    <Compile Include="PlcConfigLoader.cs" />
+    <Compile Include="PlcConfigLoaderSQLServer.cs" />
+    <Compile Include="PlcConnectionInfo.cs" />
+    <Compile Include="PlcDeviceMapAccessor.cs" />
+    <Compile Include="PlcDeviceMapInfo.cs" />
+    <Compile Include="PlcDeviceMapItem.cs" />
+    <Compile Include="PlcDeviceMapReadOnlyAccessor.cs" />
+    <Compile Include="PlcDeviceMapReadWriteAccessor.cs" />
+    <Compile Include="PlcHandShakeInfo.cs" />
+    <Compile Include="PlcFieldType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RequestResponseActionTiming.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Data\BAMSS.Data.SQLServerAccessor\BAMSS.Data.SQLServerAccessor.csproj">
+      <Project>{e59e6f88-961e-4e3a-a209-358a95969fc6}</Project>
+      <Name>BAMSS.Data.SQLServerAccessor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Logging\Message\LoggingMessageInterface\BAMSS.Logging.Message.LoggingMessageInterface.csproj">
+      <Project>{8223f0ee-3f32-44d6-8fe0-582928ede20f}</Project>
+      <Name>BAMSS.Logging.Message.LoggingMessageInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MXComponentCoreAccessor\BAMSS.MXComponent.MXComponentCoreAccessor.csproj">
+      <Project>{c926650c-df58-4719-b599-f4b3bb3e3dd4}</Project>
+      <Name>BAMSS.MXComponent.MXComponentCoreAccessor</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)Bin\*.*</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

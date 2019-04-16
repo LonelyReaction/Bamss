@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{72D8567D-178A-4FD0-8BA7-AE6F31B757B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAMSS.Extensions.Exception", "Exception\BAMSS.Extensions.Exception.csproj", "{650B8406-1876-4EF8-8A99-6FE66FF14402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAMSS.Extensions.String", "String\BAMSS.Extensions.String.csproj", "{861A6710-8C08-43DB-BEA4-1D0C566FE204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D8567D-178A-4FD0-8BA7-AE6F31B757B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D8567D-178A-4FD0-8BA7-AE6F31B757B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D8567D-178A-4FD0-8BA7-AE6F31B757B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D8567D-178A-4FD0-8BA7-AE6F31B757B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650B8406-1876-4EF8-8A99-6FE66FF14402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650B8406-1876-4EF8-8A99-6FE66FF14402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650B8406-1876-4EF8-8A99-6FE66FF14402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650B8406-1876-4EF8-8A99-6FE66FF14402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861A6710-8C08-43DB-BEA4-1D0C566FE204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861A6710-8C08-43DB-BEA4-1D0C566FE204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861A6710-8C08-43DB-BEA4-1D0C566FE204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861A6710-8C08-43DB-BEA4-1D0C566FE204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Projects\Bamss\Common\Exception\Exception\bin\Debug\Exception.dll
+C:\Projects\Bamss\Common\Exception\Exception\bin\Debug\Exception.pdb
+C:\Projects\Bamss\Common\Exception\Exception\obj\Debug\Exception.dll
+C:\Projects\Bamss\Common\Exception\Exception\obj\Debug\Exception.pdb

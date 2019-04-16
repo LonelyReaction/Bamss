@@ -1,0 +1,10 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\IPC\bin\Debug\BAMSS.Communication.IPC.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\IPC\bin\Debug\BAMSS.Communication.IPC.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\IPC\obj\Debug\BAMSS.Communication.IPC.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\IPC\obj\Debug\BAMSS.Communication.IPC.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\IPC\obj\Debug\BAMSS.Communication.IPC.csprojResolveAssemblyReference.cache
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\bin\Debug\BAMSS.Communication.IPC.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\bin\Debug\BAMSS.Communication.IPC.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\obj\Debug\BAMSS.Communication.IPC.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\obj\Debug\BAMSS.Communication.IPC.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\obj\Debug\BAMSS.Communication.IPC.csprojResolveAssemblyReference.cache

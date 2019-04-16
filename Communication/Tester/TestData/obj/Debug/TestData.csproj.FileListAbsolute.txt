@@ -1,0 +1,10 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TestData\bin\Debug\TestData.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TestData\bin\Debug\TestData.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TestData\obj\Debug\TestData.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TestData\obj\Debug\TestData.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TestData\obj\Debug\TestData.csprojResolveAssemblyReference.cache
+C:\Projects\Bamss\Common\BAMSS\Communication\Tester\TestData\bin\Debug\TestData.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\Tester\TestData\bin\Debug\TestData.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\Tester\TestData\obj\Debug\TestData.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\Tester\TestData\obj\Debug\TestData.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\Tester\TestData\obj\Debug\TestData.csprojResolveAssemblyReference.cache

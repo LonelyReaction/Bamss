@@ -1,0 +1,1 @@
+C:\Projects\Bamss\Common\BAMSS\WpfMenu\WpfMenu\bin\Debug\WpfMenu.exe.config

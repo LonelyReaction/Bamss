@@ -1,0 +1,2 @@
+LogTime,Id,SessionId,BasePriority,StartTime,CommandLine,HandleCount,ThreadCount,TotalProcessorTime,UserProcessorTime,PrivateMemorySize,WorkingSet,MaxWorkingSet,PeakWorkingSet,VirtualMemorySize,PeakVirtualMemorySize
+2017/04/27 04:36:22.923,10772,1,8,2017/04/27 04:36:00,C:\Projects\Bamss\Common\BAMSS\Diagnostic\Tester\bin\Debug\Tester.vshost.exe,340,18,00:00:00.1872012,00:00:00.0624004,28172288,38117376,1413120,38117376,256733184,281194496

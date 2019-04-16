@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E990CBF5-0464-41A4-896C-AE8DFE2C3BF4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BAMSS.UI.SwapPage</RootNamespace>
+    <AssemblyName>BAMSS.UI.SwapStageController</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ISwapPage.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SwapPageBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SwapPageBase.Designer.cs">
+      <DependentUpon>SwapPageBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SwapPageControlException.cs" />
+    <Compile Include="SwapPageController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SwapPageController.Designer.cs">
+      <DependentUpon>SwapPageController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SwapPageGeneralCreditsRoll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SwapPageGeneralCreditsRoll.Designer.cs">
+      <DependentUpon>SwapPageGeneralCreditsRoll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SwapPageScenarioBuilder.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SwapPageBase.resx">
+      <DependentUpon>SwapPageBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SwapPageController.resx">
+      <DependentUpon>SwapPageController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SwapPageGeneralCreditsRoll.resx">
+      <DependentUpon>SwapPageGeneralCreditsRoll.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\DynamicLink\BAMSS.Common.DynamicLink.csproj">
+      <Project>{390ad1e2-b39c-435f-b5ee-16e93255fed3}</Project>
+      <Name>BAMSS.Common.DynamicLink</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Extensions\Exception\BAMSS.Extensions.Exception.csproj">
+      <Project>{650b8406-1876-4ef8-8a99-6fe66ff14402}</Project>
+      <Name>BAMSS.Extensions.Exception</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)Bin\*.*</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

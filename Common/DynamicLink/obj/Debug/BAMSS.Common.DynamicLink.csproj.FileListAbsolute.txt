@@ -1,0 +1,9 @@
+C:\Projects\Bamss\Common\BAMSS\Common\DynamicLink\bin\Debug\DynamicLink.dll
+C:\Projects\Bamss\Common\BAMSS\Common\DynamicLink\bin\Debug\DynamicLink.pdb
+C:\Projects\Bamss\Common\BAMSS\Common\DynamicLink\obj\Debug\DynamicLink.dll
+C:\Projects\Bamss\Common\BAMSS\Common\DynamicLink\obj\Debug\DynamicLink.pdb
+C:\Projects\Bamss\Common\BAMSS\Common\DynamicLink\obj\Debug\BAMSS.Common.DynamicLink.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\Common\DynamicLink\bin\Debug\DynamicLink.dll
+C:\User\Projects\Bamss\Common\BAMSS\Common\DynamicLink\bin\Debug\DynamicLink.pdb
+C:\User\Projects\Bamss\Common\BAMSS\Common\DynamicLink\obj\Debug\DynamicLink.dll
+C:\User\Projects\Bamss\Common\BAMSS\Common\DynamicLink\obj\Debug\DynamicLink.pdb

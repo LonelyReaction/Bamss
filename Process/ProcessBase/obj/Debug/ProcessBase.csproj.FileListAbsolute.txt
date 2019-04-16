@@ -1,0 +1,5 @@
+C:\Projects\Bamss\Common\BAMSS\Process\Process\bin\Debug\BAMSS.ProcessBase.dll
+C:\Projects\Bamss\Common\BAMSS\Process\Process\bin\Debug\BAMSS.ProcessBase.pdb
+C:\Projects\Bamss\Common\BAMSS\Process\Process\obj\Debug\BAMSS.ProcessBase.dll
+C:\Projects\Bamss\Common\BAMSS\Process\Process\obj\Debug\BAMSS.ProcessBase.pdb
+C:\Projects\Bamss\Common\BAMSS\Process\Process\obj\Debug\ProcessBase.csprojResolveAssemblyReference.cache

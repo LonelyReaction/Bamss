@@ -1,0 +1,10 @@
+C:\Projects\SCM_P1\開発\Source\SCMP1\Serializer\bin\Debug\Serializer.dll
+C:\Projects\SCM_P1\開発\Source\SCMP1\Serializer\bin\Debug\Serializer.pdb
+C:\Projects\SCM_P1\開発\Source\SCMP1\Serializer\obj\Debug\Serializer.dll
+C:\Projects\SCM_P1\開発\Source\SCMP1\Serializer\obj\Debug\Serializer.pdb
+C:\Projects\SCM_P1\開発\Source\SCMP1\Serializer\obj\Debug\Serializer.csprojResolveAssemblyReference.cache
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\bin\Debug\Serializer.dll
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\bin\Debug\Serializer.pdb
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\obj\Debug\Serializer.dll
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\obj\Debug\Serializer.pdb
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\obj\Debug\Serializer.csprojResolveAssemblyReference.cache

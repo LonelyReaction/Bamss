@@ -1,0 +1,7 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\MXComponentAccessor\bin\Debug\BAMSS.Communication.PLC.MXComponent.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\MXComponentAccessor\bin\Debug\BAMSS.Communication.PLC.MXComponent.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\MXComponentAccessor\obj\Debug\MXComponentAccessor.csprojResolveAssemblyReference.cache
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\MXComponentAccessor\obj\Debug\Interop.ACTMULTILib.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\MXComponentAccessor\obj\Debug\MXComponentAccessor.csproj.ResolveComReference.cache
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\MXComponentAccessor\obj\Debug\BAMSS.Communication.PLC.MXComponent.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\PLC\MXComponentAccessor\obj\Debug\BAMSS.Communication.PLC.MXComponent.pdb

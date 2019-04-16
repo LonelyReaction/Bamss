@@ -1,0 +1,9 @@
+C:\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.dll
+C:\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.pdb
+C:\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\obj\Debug\BAMSS.Logging.Message.LoggingMessageInterface.dll
+C:\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\obj\Debug\BAMSS.Logging.Message.LoggingMessageInterface.pdb
+C:\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\obj\Debug\BAMSS.Logging.Message.LoggingMessageInterface.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.dll
+C:\User\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.pdb
+C:\User\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\obj\Debug\BAMSS.Logging.Message.LoggingMessageInterface.dll
+C:\User\Projects\Bamss\Common\BAMSS\Logging\Message\LoggingMessageInterface\obj\Debug\BAMSS.Logging.Message.LoggingMessageInterface.pdb

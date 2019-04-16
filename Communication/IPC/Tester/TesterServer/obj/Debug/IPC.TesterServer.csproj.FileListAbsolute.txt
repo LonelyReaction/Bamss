@@ -1,0 +1,13 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\bin\Debug\IPC.TesterServer.exe.config
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\bin\Debug\IPC.TesterServer.exe
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\bin\Debug\IPC.TesterServer.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\bin\Debug\BAMSS.Communication.IPC.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\bin\Debug\TestData.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\bin\Debug\BAMSS.Communication.IPC.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\bin\Debug\TestData.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\obj\Debug\IPC.TesterServer.csprojResolveAssemblyReference.cache
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\obj\Debug\BAMSS.Communication.IPC.TesterServer.resources
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\obj\Debug\BAMSS.Communication.IPC.Properties.Resources.resources
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\obj\Debug\IPC.TesterServer.csproj.GenerateResource.Cache
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\obj\Debug\IPC.TesterServer.exe
+C:\Projects\Bamss\Common\BAMSS\Communication\IPC\Tester\TesterServer\obj\Debug\IPC.TesterServer.pdb

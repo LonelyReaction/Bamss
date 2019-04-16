@@ -1,0 +1,14 @@
+C:\Projects\Bamss\Common\BAMSS\Extensions\Exception\bin\Debug\BAMSS.Extensions.Exception.dll
+C:\Projects\Bamss\Common\BAMSS\Extensions\Exception\bin\Debug\BAMSS.Extensions.Exception.pdb
+C:\Projects\Bamss\Common\BAMSS\Extensions\Exception\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.dll
+C:\Projects\Bamss\Common\BAMSS\Extensions\Exception\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.pdb
+C:\Projects\Bamss\Common\BAMSS\Extensions\Exception\obj\Debug\BAMSS.Extensions.Exception.dll
+C:\Projects\Bamss\Common\BAMSS\Extensions\Exception\obj\Debug\BAMSS.Extensions.Exception.pdb
+C:\Projects\Bamss\Common\BAMSS\Extensions\Exception\obj\Debug\BAMSS.Extensions.Exception.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\Exception\bin\Debug\BAMSS.Extensions.Exception.dll
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\Exception\bin\Debug\BAMSS.Extensions.Exception.pdb
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\Exception\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.dll
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\Exception\bin\Debug\BAMSS.Logging.Message.LoggingMessageInterface.pdb
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\Exception\obj\Debug\BAMSS.Extensions.Exception.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\Exception\obj\Debug\BAMSS.Extensions.Exception.dll
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\Exception\obj\Debug\BAMSS.Extensions.Exception.pdb

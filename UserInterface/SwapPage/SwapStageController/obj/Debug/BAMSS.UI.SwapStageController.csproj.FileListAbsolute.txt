@@ -1,0 +1,9 @@
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\bin\Debug\BAMSS.UI.SwapStageController.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\bin\Debug\BAMSS.UI.SwapStageController.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStage.SwapStageController.resources
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStageController.csproj.GenerateResource.Cache
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStageController.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStageController.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStage.SwapStageBase.resources
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStage.SwapStageGeneralCreditsRoll.resources
+C:\Projects\Bamss\Common\BAMSS\UserInterface\SwapStage\SwapStageController\obj\Debug\BAMSS.UI.SwapStageController.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Projects\Bamss\Common\BAMSS\SelfDiagnostic\SelfDiagnostic\bin\Debug\SelfDiagnostic.dll
+C:\Projects\Bamss\Common\BAMSS\SelfDiagnostic\SelfDiagnostic\bin\Debug\SelfDiagnostic.pdb
+C:\Projects\Bamss\Common\BAMSS\SelfDiagnostic\SelfDiagnostic\obj\Debug\SelfDiagnostic.dll
+C:\Projects\Bamss\Common\BAMSS\SelfDiagnostic\SelfDiagnostic\obj\Debug\SelfDiagnostic.pdb
+C:\Projects\Bamss\Common\BAMSS\SelfDiagnostic\SelfDiagnostic\bin\Debug\BAMSS.Extensions.Exception.dll
+C:\Projects\Bamss\Common\BAMSS\SelfDiagnostic\SelfDiagnostic\bin\Debug\BAMSS.Extensions.String.dll

@@ -1,0 +1,5 @@
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\bin\Release\Serializer.dll
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\bin\Release\Serializer.pdb
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\obj\Release\Serializer.csprojResolveAssemblyReference.cache
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\obj\Release\Serializer.dll
+C:\Projects\SCM_P1\Development\Source\SCMP1\Serializer\obj\Release\Serializer.pdb

@@ -1,0 +1,13 @@
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\bin\Debug\WpfWizerd.exe.config
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\bin\Debug\WpfWizerd.exe
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\bin\Debug\WpfWizerd.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\MainWindow.baml
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\MainWindow.g.cs
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\App.g.cs
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\WpfWizerd_MarkupCompile.cache
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\WpfWizerd.g.resources
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\WpfWizerd.Properties.Resources.resources
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\WpfWizerd.csproj.GenerateResource.Cache
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\WpfWizerd.exe
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\WpfWizerd.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\WpfWizerd\obj\Debug\WpfWizerd.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\FormWizerd\bin\Debug\FormWizerd.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\FormWizerd\bin\Debug\FormWizerd.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\FormWizerd\obj\Debug\FormWizerd.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Wizerd\FormWizerd\obj\Debug\FormWizerd.pdb

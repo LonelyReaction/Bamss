@@ -1,0 +1,9 @@
+C:\Projects\Bamss\Common\BAMSS\Extensions\String\bin\Debug\BAMSS.Extensions.String.dll
+C:\Projects\Bamss\Common\BAMSS\Extensions\String\bin\Debug\BAMSS.Extensions.String.pdb
+C:\Projects\Bamss\Common\BAMSS\Extensions\String\obj\Debug\BAMSS.Extensions.String.dll
+C:\Projects\Bamss\Common\BAMSS\Extensions\String\obj\Debug\BAMSS.Extensions.String.pdb
+C:\Projects\Bamss\Common\BAMSS\Extensions\String\obj\Debug\BAMSS.Extensions.String.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\String\bin\Debug\BAMSS.Extensions.String.dll
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\String\bin\Debug\BAMSS.Extensions.String.pdb
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\String\obj\Debug\BAMSS.Extensions.String.dll
+C:\User\Projects\Bamss\Common\BAMSS\Extensions\String\obj\Debug\BAMSS.Extensions.String.pdb

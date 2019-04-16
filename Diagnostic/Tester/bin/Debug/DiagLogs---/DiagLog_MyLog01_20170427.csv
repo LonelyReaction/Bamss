@@ -1,0 +1,5 @@
+LogTime,Id,SessionId,BasePriority,StartTime,CommandLine,HandleCount,ThreadCount,TotalProcessorTime,UserProcessorTime,PrivateMemorySize,WorkingSet,MaxWorkingSet,PeakWorkingSet,VirtualMemorySize,PeakVirtualMemorySize
+2017/04/27 04:35:21.276,10668,1,8,2017/04/27 04:03:09,C:\Projects\Bamss\Common\BAMSS\Diagnostic\Tester\bin\Debug\Tester.vshost.exe,321,19,00:00:00.2496016,00:00:00.0624004,27627520,35205120,1413120,35237888,263266304,269115392
+2017/04/27 04:35:26.311,10668,1,8,2017/04/27 04:03:09,C:\Projects\Bamss\Common\BAMSS\Diagnostic\Tester\bin\Debug\Tester.vshost.exe,321,19,00:00:00.2808018,00:00:00.0936006,27627520,35205120,1413120,35237888,263266304,269115392
+2017/04/27 04:35:31.312,10668,1,8,2017/04/27 04:03:09,C:\Projects\Bamss\Common\BAMSS\Diagnostic\Tester\bin\Debug\Tester.vshost.exe,321,19,00:00:00.2808018,00:00:00.0936006,27627520,35205120,1413120,35237888,263266304,269115392
+2017/04/27 04:35:36.313,10668,1,8,2017/04/27 04:03:09,C:\Projects\Bamss\Common\BAMSS\Diagnostic\Tester\bin\Debug\Tester.vshost.exe,321,19,00:00:00.2808018,00:00:00.0936006,27627520,35205120,1413120,35237888,263266304,269115392

@@ -1,0 +1,6 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\WCF\Tester\TesterServer\bin\WCF.TesterServer.dll.config
+C:\Projects\Bamss\Common\BAMSS\Communication\WCF\Tester\TesterServer\bin\WCF.TesterServer.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\WCF\Tester\TesterServer\bin\WCF.TesterServer.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\WCF\Tester\TesterServer\obj\Debug\WCF.TesterServer.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\WCF\Tester\TesterServer\obj\Debug\WCF.TesterServer.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\WCF\Tester\TesterServer\obj\Debug\WCF.TesterServer.csprojResolveAssemblyReference.cache

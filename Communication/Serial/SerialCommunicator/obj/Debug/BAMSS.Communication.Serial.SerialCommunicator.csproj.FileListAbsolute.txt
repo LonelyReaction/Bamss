@@ -1,0 +1,9 @@
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\bin\Debug\BAMSS.Communication.Serial.SerialCommunicator.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\bin\Debug\BAMSS.Communication.Serial.SerialCommunicator.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\obj\Debug\BAMSS.Communication.Serial.SerialCommunicator.dll
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\obj\Debug\BAMSS.Communication.Serial.SerialCommunicator.pdb
+C:\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\obj\Debug\BAMSS.Communication.Serial.SerialCommunicator.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\bin\Debug\BAMSS.Communication.Serial.SerialCommunicator.dll
+C:\User\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\bin\Debug\BAMSS.Communication.Serial.SerialCommunicator.pdb
+C:\User\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\obj\Debug\BAMSS.Communication.Serial.SerialCommunicator.dll
+C:\User\Projects\Bamss\Common\BAMSS\Communication\Serial\SerialCommunicator\obj\Debug\BAMSS.Communication.Serial.SerialCommunicator.pdb

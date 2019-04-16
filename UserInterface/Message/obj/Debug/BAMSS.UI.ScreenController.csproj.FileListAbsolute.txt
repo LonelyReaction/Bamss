@@ -1,0 +1,4 @@
+C:\Projects\Bamss\Common\BAMSS\UserInterface\ScreenController\bin\Debug\BAMSS.UI.ScreenController.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\ScreenController\bin\Debug\BAMSS.UI.ScreenController.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\ScreenController\obj\Debug\BAMSS.UI.ScreenController.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\ScreenController\obj\Debug\BAMSS.UI.ScreenController.pdb

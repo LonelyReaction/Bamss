@@ -1,0 +1,27 @@
+[Message]
+This is test message(21).
+[StackTrace]
+   場所 Tester.Form1.sub1() 場所 c:\Projects\Bamss\Common\Exception\Tester\Form1.cs:行 55
+[Source]
+Tester
+[Program File]
+C:\Projects\Bamss\Common\Exception\Tester\bin\Debug\Tester.exe
+[Innner Level]
+2
+[Process Information]
+Id=10500
+SessionId=1
+BasePriority=8
+StartTime=2017/04/24 04:38:03.328
+CommandLine=C:\Projects\Bamss\Common\Exception\Tester\bin\Debug\Tester.exe Param 1 2 Z
+Version=4.0.30319.42000
+HandleCount=283
+ThreadCount=13
+TotalProcessorTime=00:00:00.1560010
+UserProcessorTime=00:00:00.0780005
+PrivateMemorySize64=24322048
+WorkingSet64=33779712
+MaxWorkingSet=1413120
+PeakWorkingSet64=33779712
+VirtualMemorySize64=242294784
+PeakVirtualMemorySize64=253095936

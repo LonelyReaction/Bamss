@@ -1,0 +1,9 @@
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Message\bin\Debug\BAMSS.UI.Message.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Message\bin\Debug\BAMSS.UI.Message.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Message\obj\Debug\BAMSS.UI.Message.dll
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Message\obj\Debug\BAMSS.UI.Message.pdb
+C:\Projects\Bamss\Common\BAMSS\UserInterface\Message\obj\Debug\BAMSS.UI.Message.csprojResolveAssemblyReference.cache
+C:\User\Projects\Bamss\Common\BAMSS\UserInterface\Message\bin\Debug\BAMSS.UI.Message.dll
+C:\User\Projects\Bamss\Common\BAMSS\UserInterface\Message\bin\Debug\BAMSS.UI.Message.pdb
+C:\User\Projects\Bamss\Common\BAMSS\UserInterface\Message\obj\Debug\BAMSS.UI.Message.dll
+C:\User\Projects\Bamss\Common\BAMSS\UserInterface\Message\obj\Debug\BAMSS.UI.Message.pdb

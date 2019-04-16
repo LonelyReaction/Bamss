@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BAMSS.MXComponent.PlcAccessor">
+    <Position X="3" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>PlcAccessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcConfigLoader">
+    <Position X="11.25" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAEAgAABAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>PlcConfigLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcConfigLoaderDataTable">
+    <Position X="11.25" Y="10.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAABAACABAAAAgAABAAAAAQAAAAAAAAI=</HashCode>
+      <FileName>PlcConfigLoaderDataTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcConfigLoaderSQLServer">
+    <Position X="11.25" Y="14.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAACABAAAAIAAAAAAIAQAAAAAAAAA=</HashCode>
+      <FileName>PlcConfigLoaderSQLServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcConnectionInfo" Collapsed="true">
+    <Position X="10.5" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>PlcConnectionInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcDeviceMapAccessor">
+    <Position X="0.75" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAABAAAAAgAIAAAAAAgAQAAIEAAAA=</HashCode>
+      <FileName>PlcDeviceMapAccessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcDeviceMapInfo">
+    <Position X="14" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAQAAAgAABAAAEAAAAAAAACAAAAAAAAAIAAAA=</HashCode>
+      <FileName>PlcDeviceMapInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcDeviceMapItem" Collapsed="true">
+    <Position X="10.5" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAAgAAAAgAQAAAAAAAQAAAAAAAACASAgEEMAAAA=</HashCode>
+      <FileName>PlcDeviceMapItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcDeviceMapReadOnlyAccessor">
+    <Position X="0.75" Y="7.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAIAAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlcDeviceMapReadOnlyAccessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcDeviceMapReadWriteAccessor">
+    <Position X="0.75" Y="10.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAgAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>PlcDeviceMapReadWriteAccessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcHandShakeInfo" Collapsed="true">
+    <Position X="14" Y="6.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAQAAAABIAAAAAAAAQAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>PlcHandShakeInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcHandShakeSendReqReadProcessor">
+    <Position X="7.25" Y="7.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABEAAAAgBAAAAAACEgAAg=</HashCode>
+      <FileName>PlcHandShakeSendReqReadProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcHandShakeSendReqReadWriteProcessor">
+    <Position X="7.25" Y="11.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>PlcHandShakeSendReqReadWriteProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcHandShakeWaitReqReadProcessor">
+    <Position X="4" Y="7.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAABAAAGAABAAAAAQCEgAAA=</HashCode>
+      <FileName>PlcHandShakeWaitReqReadProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcHandShakeWaitReqReadWriteProcessor">
+    <Position X="4" Y="11.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>PlcHandShakeWaitReqReadWriteProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BAMSS.MXComponent.PlcWatchProcessor">
+    <Position X="5.75" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACAAAAAAAAAAAACQAAAAAAAAAAAAIAAEAAAA=</HashCode>
+      <FileName>PlcWatchProcessor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BAMSS.MXComponent.IPlcWatchProcessor" Collapsed="true">
+    <Position X="10.5" Y="4.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IPlcWatchProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BAMSS.MXComponent.PlcFieldType" Collapsed="true">
+    <Position X="10.5" Y="5.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlcFieldType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BAMSS.MXComponent.RequestResponseActionTiming" Collapsed="true">
+    <Position X="14" Y="5.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAA=</HashCode>
+      <FileName>RequestResponseActionTiming.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>
